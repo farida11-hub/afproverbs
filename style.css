@@ -40,7 +40,7 @@ text-align: center;
 .proverb-card{
     background-color: white;
     width: 700PX;
-    height: 60PX;
+    height: 100PX;
     border-radius: 5PX;
 }
 .proverb-card:hover {
